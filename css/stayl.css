@@ -1,6 +1,11 @@
 .link {
   color: blue;
+  text-decoration: none;
 }
 .nava {
-  text-emphasis-color: yellow;
+  font-style: bold;
+  text-decoration: none;
+}
+.main {
+  text-decoration: none;
 }
