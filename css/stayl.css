@@ -1,11 +1,39 @@
-.link {
+.head {
+  list-style: none;
   color: blue;
-  text-decoration: none;
 }
-.nava {
-  font-style: bold;
+
+.nav-link {
   text-decoration: none;
+  color: #837D88;
 }
-.main {
+.nav-linka {
   text-decoration: none;
+  color: black;
+}
+.site-hero {
+  background-color: #2D2641;
+}
+.text-hero {
+  color: #fff;
+}
+.link-nav {
+  text-decoration: none;
+  color: #fff;
+}
+
+.fouture-pag {
+  background-color: #2D2641;
+  color: #fff;
+}
+.we-work {
+  text-decoration: none;
+  color: #fff;
+}
+.footer-pag, h3{
+  color: #837D88;
+}
+.footer-pag, a {
+  list-style: none;
+  color: black;
 }
